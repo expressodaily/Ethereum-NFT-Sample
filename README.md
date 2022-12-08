@@ -1,4 +1,4 @@
-# `ethereum-boilerplate`
+# `ethereum-NFT-boilerplate`
 
 > Fully Typescript ready NextJS components for fast building dApps without running own backend
 
@@ -22,7 +22,7 @@ If you need help with setting up the boilerplate or have other questions - don't
 
 # 🚀 `Quick Start`
 
-📄 Clone or fork `ethereum-boilerplate`:
+📄 Clone or fork  `ethereum-NFT-boilerplate`:
 
 ```sh
 git clone https://github.com/expressodaily/Ethereum-NFT-Sample.git
