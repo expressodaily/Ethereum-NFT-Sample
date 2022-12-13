@@ -19,7 +19,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
       chain,
       network,
       ...config,
-    });
+    }); 
 
     res.status(200).json(message);
   } catch (error) {
